@@ -1,5 +1,5 @@
 # Scrapper Ft. Puppeteer
-## A simple script that demonestrates how can one scrape certain data from specific website using Puppeteer, a JS library, generally used to write automated tests for websites.
+A simple script that demonstrates how can one scrape certain data from specific website using Puppeteer, a JS library, generally used to write automated tests for websites.
 ---
 
 ### How to?
